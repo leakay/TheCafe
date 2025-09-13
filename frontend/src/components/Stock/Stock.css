@@ -1,0 +1,7 @@
+.stock-container { background:#fff; padding:16px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.06); }
+.stock-form { display:flex; gap:8px; margin-bottom:12px; }
+.stock-form select, .stock-form input { padding:8px; border:1px solid #ddd; border-radius:6px; }
+.stock-form button { padding:8px 12px; background:#facc15; border:none; border-radius:6px; cursor:pointer; }
+.stock-table { width:100%; border-collapse:collapse; }
+.stock-table th, .stock-table td { padding:8px; border-bottom:1px solid #eee; text-align:left; }
+.low-stock { background:#fff5f5; color:#b91c1c; font-weight:bold; }

@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chicken Wings (6pcs)",
+      "description": "Spicy or BBQ wings",
+      "price": 199
+    },
+    {
+      "id": 2,
+      "name": "FULL CHICKEN",
+      "description": "FRIDAY MEAL",
+      "price": 79
+    },
+    {
+      "id": 3,
+      "name": "Chicken Burger",
+      "description": "Grilled chicken patty with lettuce, tomato, and mayo",
+      "price": 39
+    },
+    {
+      "id": 4,
+      "name": "Beef Burger",
+      "description": "Juicy beef patty with cheese, lettuce, and tomato",
+      "price": 45
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Motsamai R",
+      "email": "motsamai@example.com",
+      "phone": "123456789"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "phone": "987654321"
+    },
+    {
+      "id": 1757758438054,
+      "name": "Katleho",
+      "email": "motsamairalejoe@gmail.com",
+      "phone": "63789201"
+    },
+    {
+      "id": 1757758460245,
+      "name": "kazzy",
+      "email": "tillinfinity15@gmail.com",
+      "phone": "122436376"
+    }
+  ],
+  "sales": [
+    {
+      "id": 1,
+      "productId": 1,
+      "customerId": 1,
+      "amount": 199,
+      "date": "2025-09-01"
+    },
+    {
+      "id": 1757756145084,
+      "productId": 1,
+      "customerId": 1,
+      "amount": 5,
+      "date": "2025-09-13"
+    },
+    {
+      "id": 1757756162818,
+      "productId": 1,
+      "customerId": 1,
+      "amount": 5,
+      "date": "2025-09-13"
+    },
+    {
+      "id": 1757758477512,
+      "productId": 2,
+      "customerId": 2,
+      "amount": 34,
+      "date": "2025-09-13"
+    },
+    {
+      "id": 1757758520381,
+      "productId": 1,
+      "customerId": 1757758460245,
+      "amount": 40,
+      "date": "2025-09-13"
+    },
+    {
+      "id": 1757758527613,
+      "productId": 1,
+      "customerId": 1757758460245,
+      "amount": 34,
+      "date": "2025-09-13"
+    },
+    {
+      "id": 1757758535106,
+      "productId": 1,
+      "customerId": 1757758460245,
+      "amount": 30,
+      "date": "2025-09-13"
+    }
+  ],
+  "stock": [
+    {
+      "id": 1,
+      "productId": 1,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "quantity": 6
+    },
+    {
+      "id": 1757756044717,
+      "productId": 3,
+      "quantity": 66
+    },
+    {
+      "id": 1757756123881,
+      "productId": 4,
+      "quantity": 7
+    },
+    {
+      "id": 1757758506674,
+      "productId": 1,
+      "quantity": 34
+    }
+  ]
+}
