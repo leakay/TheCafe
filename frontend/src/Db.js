@@ -1,8 +1,9 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:5000'
+  baseURL: 'https://thecafe-1.onrender.com'
 });
+
 
 // PRODUCTS
 export const getProducts = () => API.get('/products');
