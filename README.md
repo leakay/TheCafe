@@ -1,4 +1,4 @@
-Snash Dah Fx — Minimal scaffold
+wings cafe— Minimal scaffold
 Frontend: React (src/components/...)
 Backend: Express (backend/index.js) using db.json as file DB
 
