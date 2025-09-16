@@ -1,0 +1,5 @@
+.header { width:100%; background:#1f2937; color:#fff; padding:12px 20px; display:flex; align-items:center; justify-content:space-between; position:sticky; top:0; z-index:10; }
+.logo { font-weight:bold; color:#facc15; }
+.header nav a { color:#fff; margin:0 8px; text-decoration:none; font-size:14px; }
+.user-profile { display:flex; align-items:center; gap:8px; }
+.user-profile img { width:36px; height:36px; border-radius:50%; border:2px solid #facc15; }

@@ -23,6 +23,30 @@
       "name": "Beef Burger",
       "description": "Juicy beef patty with cheese, lettuce, and tomato",
       "price": 45
+    },
+    {
+      "id": 1757763542178,
+      "name": "Motsamai Ralejoe",
+      "description": "faggag",
+      "price": 2
+    },
+    {
+      "id": 1757771122442,
+      "name": "Motsamai Ralejoe",
+      "description": "faggag",
+      "price": 5
+    },
+    {
+      "id": 1757772398171,
+      "name": "Motsamai Ralejoe",
+      "description": "faggag",
+      "price": 0
+    },
+    {
+      "id": 1757773502856,
+      "name": "Motsamai Ralejoe",
+      "description": "faggag",
+      "price": 4
     }
   ],
   "customers": [
@@ -39,16 +63,16 @@
       "phone": "987654321"
     },
     {
-      "id": 1757758438054,
+      "id": 1757771129781,
       "name": "Katleho",
       "email": "motsamairalejoe@gmail.com",
       "phone": "63789201"
     },
     {
-      "id": 1757758460245,
-      "name": "kazzy",
-      "email": "tillinfinity15@gmail.com",
-      "phone": "122436376"
+      "id": 1757772441878,
+      "name": "Katleho",
+      "email": "motsamairalejoe@gmail.com",
+      "phone": "63789201"
     }
   ],
   "sales": [
@@ -106,7 +130,7 @@
     {
       "id": 1,
       "productId": 1,
-      "quantity": 0
+      "quantity": 6
     },
     {
       "id": 2,
@@ -125,6 +149,16 @@
     },
     {
       "id": 1757758506674,
+      "productId": 1,
+      "quantity": 36
+    },
+    {
+      "id": 1757771145403,
+      "productId": 2,
+      "quantity": 6
+    },
+    {
+      "id": 1757772472395,
       "productId": 1,
       "quantity": 34
     }

@@ -1,0 +1,2 @@
+.dashboard-main { padding:20px; background:#f4f6f8; min-height:100vh; }
+.dashboard-grid { display:grid; grid-template-columns: 1fr; gap:24px; max-width:1200px; margin:0 auto; }
